@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 5,
+    "uniqCompNum": 6,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -51,36 +51,36 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#2969b0"
+              "color": "#cccccc"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#2969b0"
+              "background-color": "#cccccc"
             },
             ".link, .dropdown-item": {
-              "color": "#2969b0",
+              "color": "#cccccc",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-family": "'Oswald', sans-serif"
             },
             ".link": {
-              "font-size": "0.95rem"
+              "font-size": "1.25rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.029rem"
+              "font-size": "1.354rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#405e70"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#4c7187!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#527991"
             },
             ".bg-color.transparent .link": {
-              "color": "#2969b0",
+              "color": "#cccccc",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -90,20 +90,20 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#f5e12a!important"
             }
           },
           "_name": "ext.menu",
           "_anchor": "ext_menu-1",
           "_params": {
-            "bgColor": "#282828",
-            "fontSize": "0.95",
+            "bgColor": "#527991",
+            "fontSize": "1.25",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "css": "'Oswald', sans-serif"
             },
-            "fontColor": "#2969b0",
+            "fontColor": "#cccccc",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -115,7 +115,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pobrane-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/200px-faustina-93x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -129,7 +129,20 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Święte Słowa</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Biografia</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">FEATURES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Biografia</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">FEATURES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">tooo</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-5",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "Helena Kowalska urodziła się 25 sierpnia 1905 r. we wsi Głogowice , była ona trzecim dzieckiem z dziesięciorga potomków Marianny i Stanisława Kowalskich .Mimo wielu przeszkód takich jak ubóstwo rodziny i bardzo słabe wykształcenie, zawsze potrafiła dojrzeć boga w swoim życiu.<div>Już jako 16 latka zaczęła pracować w mieście jako służąca. W tak młodym wieku nie zajmowała się zabawą .Pomagała swojej rodzinie w utrzymaniu ,co nie było łatwe .Co ciekawe ,święta Faustyna w swojej umowie o prace pracę zastrzegła sobie prawo odprawiania dorocznych rekolekcji, codzienne uczestnictwo we Mszy św. oraz możliwość odwiedzania chorych i potrzebujących pomocy.</div><div>Jako dwudziestoletnia kobieta wstąpiła do Zgromadzenia Sióstr Matki Bożej Miłosierdzia .Jako siostra Maria Faustyna przeżyła trzynaście lat, pracując w zakonie jako kucharka, ogrodniczka i furtianka.</div><div>Życie tej wielkiej  świętej było zwyczajne ,niczym się nie wyróżniało .Tajemnicą  jej życia była bardzo silna więź z Bogiem. Już od dziecka Helenka pragnęła zostać świętom, starała się postępować zgodnie ze swoim zamiarem. Wraz z Jezusem ratowała zagubione owieczki by spokojnie powróciły do swego pasterza. Święta Faustyna ofiarowała swe życie w ofierze za grzeszników. Święta osoba cierpiała nie tylko przez swe liczne choroby lecz także przez stygmatyczne rany. Siostra Faustyna przez całe swoje życie ufała panu ,oddawała mu wszystkie swoje troski, oraz każdego człowieka. W modlitwach zawierzyła mu także ciebie.To ona zleciła namalowanie Jezusa miłosiernego który jej objawił się.</div><div>Siostra Faustyna - wyniszczona gruźlicą oraz cierpieniami jakie znosiła w ofierze za grzeszników - zmarła w Krakowie 5 października 1938 r., mając zaledwie 33 lata.-tak młoda a tyle zdziałała.</div><div><br></div>"
         },
         {
           "_tags": [
@@ -155,27 +168,13 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "content6",
-          "_anchor": "content6-4",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text1": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "text2": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
           "_name": "header2",
           "_anchor": "header2-3",
           "_params": {
             "imageSize": "36",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1294.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1122.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -195,7 +194,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/pobrane-1400x1400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/imageedit-1.gif",
               "link": "",
               "alt": "",
               "title": "",
@@ -214,11 +213,17 @@
             }
           },
           "title": "Święta Faustyna",
-          "text": "Kim była?...<br>Co robiła?...<br>jak żyła?...<br><i>Chcesz się dowiedzieć?...<br></i><b>Kliknij po więcej!</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">Więcej!</a>",
+          "text": "Kim była?...<br>Co robiła?...<br>Jak żyła?...<br><i>Chcesz się dowiedzieć?...<br></i><b>Kliknij po więcej!</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">Więcej!</a>",
           "_styles": {
             ".btn": {
               "font-size": "17px"
+            },
+            ".mbr-section-text B": {
+              "color": "#cccccc"
+            },
+            ".mbr-section-title": {
+              "color": "#efefef"
             }
           }
         }
